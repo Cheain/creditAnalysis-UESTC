@@ -162,6 +162,6 @@ if __name__ == '__main__':
     try:
         main()
     except Exception as e:
-        print('出错：{}\n程序异常请联系cheain@126.com'.format(e))
+        print('出错：{}\n程序异常请联系https://github.com/Cheain/creditAnalysis-UESTC/issues'.format(e))
     finally:
         os.system('pause')
