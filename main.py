@@ -180,7 +180,7 @@ def main():
 
 
 def checkNew():
-    version = '0.1.1'
+    version = '0.2.0'
     import urllib.request
     latestURL = 'https://api.github.com/repos/Cheain/creditAnalysis-UESTC/releases/latest'
     latestInfo = urllib.request.urlopen(latestURL).read().decode(encoding='utf-8')

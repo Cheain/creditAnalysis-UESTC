@@ -5,4 +5,6 @@
 
 > [最新版下载][latest release]
 
+>[更新日志][new]
 [latest release]:https://github.com/Cheain/creditAnalysis-UESTC/releases
+[new]:https://github.com/Cheain/creditAnalysis-UESTC/blob/master/what's_new.md
